@@ -1,0 +1,76 @@
+
+# 2025-11-21 14:55:48.476063
++Code the following app
++```
++Simple Crypto Calculator — App Description
++
++Create a simple mini app called “Simple Crypto Calculator”.
++The app allows users to calculate basic crypto values manually, such as total cost or holdings, without connecting to any external data sources.
++
++Core Features
++ 1. A text input field for entering the token name (optional for labeling).
++ 2. A numeric input field for quantity (number of tokens).
++ 3. A numeric input field for price per token (manual input).
++ 4. A button “Calculate” that multiplies quantity × price and displays the result.
++ 5. A display area showing the total value of the tokens.
++ 6. Optional: Allow multiple calculations in a list format, showing previous results with token name, quantity, price, and total.
++
++How the App Should Work
++ • User enters the quantity and price per token.
++ • Presses “Calculate”.
++ • The app immediately displays the total value.
++ • Users can repeat with different tokens or quantities.
++ • If multiple entries are supported, users can remove or clear items manually.
++ • All calculations are done locally; no internet or external data is used.
++
++UI Requirements
++ • Simple, clean form layout at the top for inputs.
++ • “Calculate” button clearly visible.
++ • Result displayed prominently below the form.
++ • Optional list of past calculations below result.
++ • No external API calls, no Web3, no internet required.
++
++Goal of the App
++
++Provide users with a quick, offline tool to calculate token totals and basic crypto math without any dependencies.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-21 14:55:48.476652
++Code the following app
++```
++Simple Crypto Calculator — App Description
++
++Create a simple mini app called “Simple Crypto Calculator”.
++The app allows users to calculate basic crypto values manually, such as total cost or holdings, without connecting to any external data sources.
++
++Core Features
++ 1. A text input field for entering the token name (optional for labeling).
++ 2. A numeric input field for quantity (number of tokens).
++ 3. A numeric input field for price per token (manual input).
++ 4. A button “Calculate” that multiplies quantity × price and displays the result.
++ 5. A display area showing the total value of the tokens.
++ 6. Optional: Allow multiple calculations in a list format, showing previous results with token name, quantity, price, and total.
++
++How the App Should Work
++ • User enters the quantity and price per token.
++ • Presses “Calculate”.
++ • The app immediately displays the total value.
++ • Users can repeat with different tokens or quantities.
++ • If multiple entries are supported, users can remove or clear items manually.
++ • All calculations are done locally; no internet or external data is used.
++
++UI Requirements
++ • Simple, clean form layout at the top for inputs.
++ • “Calculate” button clearly visible.
++ • Result displayed prominently below the form.
++ • Optional list of past calculations below result.
++ • No external API calls, no Web3, no internet required.
++
++Goal of the App
++
++Provide users with a quick, offline tool to calculate token totals and basic crypto math without any dependencies.
++```
++
++Generate an app logo and update the app metadata title and description.
